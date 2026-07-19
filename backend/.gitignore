@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.pkl
+mlruns/
+models/spy_data_cache.csv
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
